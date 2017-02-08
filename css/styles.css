@@ -2,12 +2,16 @@
   float: left;
   background-color: red;
   width: 20%;
-  height: 1000px;
+  height: ;
+  border: 2px solid black;
+  padding: 4px;
+  padding-bottom: 1600px;
 }
 
 .images {
   float: left;
-  max-width: 80%;
+  max-width: 70%;
+  padding: 10px;
 }
 
 .image-resize {
@@ -15,6 +19,7 @@
 }
 
 .main {
-  float: right;
-  width: 80%;
+  float: left;
+  max-width: 70%;
+  padding: 10px;
 }
