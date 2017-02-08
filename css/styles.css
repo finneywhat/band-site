@@ -6,9 +6,15 @@
 }
 
 .images {
+  float: left;
+  max-width: 80%;
+}
 
+.image-resize {
+  max-width: 100%;
 }
 
 .main {
-
+  float: right;
+  width: 80%;
 }
